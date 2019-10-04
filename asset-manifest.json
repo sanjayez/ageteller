@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbc34170.chunk.css",
+    "main.js": "/static/js/main.80096b69.chunk.js",
+    "main.js.map": "/static/js/main.80096b69.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dc742d79.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dc742d79.js.map",
+    "static/js/2.0389230d.chunk.js": "/static/js/2.0389230d.chunk.js",
+    "static/js/2.0389230d.chunk.js.map": "/static/js/2.0389230d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e5c115d2ab997d82a6d3a1bd8a4b81a3.js": "/precache-manifest.e5c115d2ab997d82a6d3a1bd8a4b81a3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.dbc34170.chunk.css.map": "/static/css/main.dbc34170.chunk.css.map",
+    "static/media/party-popper.jpg": "/static/media/party-popper.4580939b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc742d79.js",
+    "static/js/2.0389230d.chunk.js",
+    "static/css/main.dbc34170.chunk.css",
+    "static/js/main.80096b69.chunk.js"
+  ]
+}
